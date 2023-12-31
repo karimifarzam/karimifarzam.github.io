@@ -20,4 +20,3 @@ Hi I'm Farzam. I'm in my third year at Harvard Law School and I'm cross register
 
 Follow this site for updates on my life and posts on topics I'm thinking about. Also feel free to reach out to me if you'd like to chat about something you're passionate about. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
