@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi I'm Farzam. I'm in my third year at Harvard Law School and I'm cross registered in Machine learning and programming classes at MIT. I'm driven by unending curiosity. Right now I'm particularly interested in AI/ML, law, economics, blockchain, politics, philosophy, altruism to name a few. Here's my [LinkedIn](https://www.linkedin.com/in/farzamkarimi) for more information. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi I'm Farzam. I'm in my third year at Harvard Law School and I'm cross registered in Machine learning and programming classes at MIT. I'm driven by unending curiosity. Right now I'm particularly interested in AI/ML, law, economics, blockchain, politics, philosophy, and altruism to name a few subjects. Here's my [LinkedIn](https://www.linkedin.com/in/farzamkarimi) for more information.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
