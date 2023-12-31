@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-    <p>1585 Massachusetts Avenue</p>
+    <p>1585 Massachusetts Ave</p>
     <p>Cambridge, Massachusetts, 02138</p>
 
 news: true  # includes a list of news items
