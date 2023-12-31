@@ -11,7 +11,7 @@ profile:
   more_info: >
 
     <p>1585 Massachusetts Ave</p>
-    <p>Cambridge, Massachusetts, 02138</p>
+    <p>Cambridge, MA, 02138</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
