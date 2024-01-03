@@ -2,7 +2,7 @@
 layout: page
 title: Kapital 
 description: Created proprietary trading technology and provided Cryptocurrency/NFT investment consulting (Acquired)
-img: assets/img/7.jpg
+img: assets/img/kapital.png
 redirect: https://kapitallabs.io
 importance: 3
 category: work
