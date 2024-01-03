@@ -2,7 +2,7 @@
 layout: page
 title: BlockShare
 description: Harvard innovation lab startup. SaaS startup that provided businesses a new funding model by converting their NFTs into NFT security tokens.
-img: assets/img/3.jpg
+img: assets/img/blockshare.png
 importance: 2
 category: work
 giscus_comments: true
