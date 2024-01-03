@@ -120,8 +120,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Farzam Karimi # blog_name will be displayed in your blog page
-blog_description: Farzam Karimi's personal website
+blog_name: # blog_name will be displayed in your blog page
+blog_description: 
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -264,8 +264,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['artificial intelligence', 'machine learning', 'law', 'math', 'philosophy', 'psychology'] # these tags will be displayed on the front page of your blog
+display_categories: ['blockchain', 'AI/ML', 'Law'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
