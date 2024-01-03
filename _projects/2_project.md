@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: BlockShare
+description: Harvard i-lab startup. SaaS startup to provide businesses new funding model by converting NFT into NFT security tokens.
 img: assets/img/3.jpg
 importance: 2
 category: work
