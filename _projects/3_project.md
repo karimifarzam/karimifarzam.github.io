@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Kapital 
+description: Created proprietary trading technology and provided Cryptocurrency/NFT investment consulting (Acquired)
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://kapitallabs.io
 importance: 3
 category: work
 ---
