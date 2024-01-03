@@ -2,7 +2,7 @@
 layout: page
 title: EarPiece.ai
 description: Harvard Innovation Lab startup. AI powered assistant for virtual meetings.
-img: assets/img/12.jpg
+img: assets/img/earpieceblack.png
 importance: 1
 category: work
 related_publications:
