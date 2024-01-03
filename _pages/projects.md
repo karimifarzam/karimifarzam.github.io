@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ventures & projects
+title: projects & ventures
 permalink: /projects/
-description: A collection of some past ventures and projects.
+description: A collection of my past ventures and projects.
 nav: true
 nav_order: 3
 display_categories: [Projects + Startups]
