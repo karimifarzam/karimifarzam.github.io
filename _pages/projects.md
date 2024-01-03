@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ventures & Projects
+title: ventures & projects
 permalink: /projects/
 description: A collection of some past ventures and projects.
 nav: true
