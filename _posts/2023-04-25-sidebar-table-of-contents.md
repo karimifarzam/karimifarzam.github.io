@@ -2,7 +2,7 @@
 layout: post
 title: Institutional Meta-Cognition through Un-Governance in International Law
 date: 2024-05-15 10:14:00-0400
-description: Institutional Meta-Cognition through Un-Governance in International Law
+description: Legal Paper investigating Globalism and International Law
 tags: international law policy
 categories: International Law
 giscus_comments: false
