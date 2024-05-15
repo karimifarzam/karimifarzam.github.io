@@ -10,17 +10,6 @@ related_posts: false
 toc:
   sidebar: left
 ---
-This post shows how to add a table of contents as a sidebar.
-
-## Adding a Table of Contents
-
-To add a table of contents to a post as a sidebar, simply add
-```yml
-toc:
-  sidebar: left
-```
-to the front matter of the post. The table of contents will be automatically generated from the headings in the post. If you wish to display the sidebar to the right, simply change `left` to `right`.
-
 ### Introduction
 
 The 21st century is characterized by rapid development, globalization, and technological
@@ -47,10 +36,6 @@ through 21st century works and applies Desai and Lang’s “global un-governanc
 potentially addressing the paradoxes and uncertainty associated with this period of rapid
 technological progress and globalization.
 
-1. Rajneesh Narula, Globalization and Technology: Interdependence, Innovation Systems and Industrial Policy
-(2014).
-2. Deval Desai & Andrew Lang, Introduction: Global Un-governance, 11 Transnat'l Legal Theory 219 (2020).
-
 ### I: Societal Institutions and Norms
 
 In his paper "Nature and Character of Contemporary International Law: The Era of Global
@@ -69,7 +54,8 @@ supplanted for another.
 
 Chimni illustrates the disconnect in interests that seem to underpin the neoliberalism of the 21st
 century. Essentially, if you do not have to dismantle other systems of oppression, why would
-you? He presents the neo-liberal alternative viewpoint of societal struggle as distinct from Marxists, one that embraces a future where capitalism remains, and the products of a free market
+you? He presents the neo-liberal alternative viewpoint of societal struggle as distinct from Marxists, 
+one that embraces a future where capitalism remains, and the products of a free market
 led to emancipation of societies oppressed. He also presents the major counterargument that such
 a system simply replaces one form of exploitation for another. You can perform a similar
 analysis where the product of increased capitalism is simply a proxy for the virtuous cycle of
@@ -78,9 +64,9 @@ interests in class consciousness and other societal institutions like race and g
 the introduction of oral contraceptive birth control in the 20th century permanently altered
 women’s relationship to parenthood and child rearing. The consequence was a significant
 increase in women’s participation in the workforce and with it came an increase in global
-productivity.4 The 21st century introduction of Oocyte cryopreservation or egg freezing has
+productivity.(4) The 21st century introduction of Oocyte cryopreservation or egg freezing has
 similarly allowed women to plan pregnancy’s later, and technology is continually being
-developed to extend the fertility window.5 A neoliberal may view these developments in a
+developed to extend the fertility window. (5) A neoliberal may view these developments in a
 positive light, while a communist may argue that this technology and so-called progress has
 simply shifted their oppression from the realm of gender to realm of capitalism, and without
 freedom from capitalism the underlying oppression remains ever-present.
@@ -90,7 +76,7 @@ social institutions themselves. In the case of gender as a social construct, its
 of identity has come into question particularly as technology has progressed. In the form of
 innovative policy, nations are adapting to the notion of nonbinary personhood. Simultaneously,
 novel medical procedures and biological innovations are also allowing for greater levels of
-physical control of gender expression.6 While current institutions have yet to adapt, an un-
+physical control of gender expression. (6) While current institutions have yet to adapt, an un-
 governance framework that encourages institutions to “actively seek to encounter, produce, and
 harness, their own indeterminacy (or the experience and expression of it) as a generative
 principle” would be suited for such a landscape. An un-governance model for women’s rights
@@ -100,22 +86,13 @@ also seek to address the underlying class inequalities that are interspersed wit
 Such a model would embrace its lack of ability to provide closure on these questions but
 nevertheless strives towards it.
 
-3. B.S. Chimni, International Law and World Order: A Critique of Contemporary Approaches 499 (2nd ed. 2017).
-4. H.M. Prescott & L.M. Thompson, A Right to Ourselves: Women's Suffrage and the Birth Control Movement, 19 J.Gilded Age & Progressive Era 542 (2020).
-5. M.L. McGowan, Participation in Investigational Fertility Preservation Research: A Feminist Research Ethics Approach, in Oncofertility: Ethical, Legal, Social, and Medical Perspectives, at 209-221 (2010).
-
-## Customizing Your Table of Contents
-{:data-toc-text="Customizing"}
-
-If you want to learn more about how to customize the table of contents of your sidebar, you can check the [bootstrap-toc](https://afeld.github.io/bootstrap-toc/) documentation. Notice that you can even customize the text of the heading that will be displayed on the sidebar.
-
 ### II: Migration and Globalization
 
 Migration has been significantly impacted by globalization and technological progress.
 Achiume's article "Migration as Decolonization" presents international migration as the
 "defining problem of our time." She views colonialism as having "initiated inequitable global
 interconnection" and suggests that "decolonization could be conceived of not as independence
-but as more equitable interconnection."7 Her view is ambivalent towards globalization as an
+but as more equitable interconnection." (7) Her view is ambivalent towards globalization as an
 emancipation force, focusing instead on the relative power distribution resulting from it.
 Achiume says, "Insofar as the First and Third Worlds remain bound, for those who are
 subordinated in this relationship, equality or decolonization may entail shifting power within the
@@ -126,7 +103,7 @@ global interdependence and interconnection remain a fact."
 progress. Achiume's article "Migration as Decolonization" presents international migration as the
 "defining problem of our time." She posits that colonialism had "initiated inequitable global
 interconnection" and suggests that "decolonization could be conceived of not as independence
-but as more equitable interconnection." (7) Her view is ambivalent towards globalization as an
+but as more equitable interconnection." (8) Her view is ambivalent towards globalization as an
 emancipation force, focusing instead on the relative power distribution resulting from it.
 Achiume espouses a view that “seeks to supplant the extant international legal fiction and
 logic of formally independent, autonomous nation-states (each with a right to exclude
@@ -141,7 +118,9 @@ opposition” and Achiume presents freedom of movement as instrumental in redist
 post colonialism.
 
   With globalization, the relevance and power of the nation-state are becoming blurred,
-Scholars like Achiume are calling for mechanisms that encourage equal redistribution of neo-colonial power through respect of individual autonomy. Her perspective accounts for the blurring of concepts like nationality, such as the rise of digital nomads migrating from country to country,
+Scholars like Achiume are calling for mechanisms that encourage equal redistribution of 
+neo-colonial power through respect of individual autonomy. Her perspective accounts for 
+the blurring of concepts like nationality, such as the rise of digital nomads migrating from country to country,
 raising questions about their citizenship and management. The runoff effects are significant;
 besides Achiume’s conception, institutions need to consider the economic impacts on the labor
 market and, crucially, the responses of indigenous populations. While migration can be viewed
@@ -150,10 +129,6 @@ these countervailing concerns of encouraging freedom of movement, while simultan
 respecting the rights of indigenous people and balancing economic interests, seem to align with
 an un-governance framework that incorporates Achiume’s prescription while considering the
 issues that stem from globalization and technological progress.
-
-6 A. Zurada, S. Salandy, W. Roberts, J. Gielecki, J. Schober & M. Loukas, The Evolution of Transgender Surgery, 31 Clinical Anatomy 878 (2018).
-7 Tendayi Achiume, Migration as Decolonization, 71 Stan. L. Rev. 1509 (2019).
-8 Id. at 1522
 
 ### III: Technology and Corporate Power
 
@@ -165,7 +140,8 @@ social welfare similar to the effects resulting from rulemaking and enforcement 
 corporate actors are engage in governance.” He elucidates the corporation's role in governance
 and potential responses. He then presents two competing views, one view advocates for the
 “development of national firms through the use of tariff and subsidy programmes, antitrust law,
-etc..” and the other is “strict neo-liberal prescription for economic development [that] would encourage early opening of developing country markets to global competition through the
+etc..” and the other is “strict neo-liberal prescription for economic development [that] would 
+encourage early opening of developing country markets to global competition through the
 abolition of trade barriers…”
 
   Years later, Danielsen’s comments appear all the more relevant. Transnational
@@ -185,9 +161,9 @@ of our political and social welfare purposes.” His proposal essentially aligns
 governance model. We need regimes that realistically recognize the role of corporations on the
 global stage and shape them without adhering strictly to a neo-liberal or conservative approach.
 Ultimately, the global regime needs to confront (not necessarily resolve) these questions. As the
-world evolves, global law must be adaptable to experiment with new paradigms, such as universal basic income, and utilize the entire spectrum of governance mechanisms from governments, NGOs, and corporations.
+world evolves, global law must be adaptable to experiment with new paradigms, such as universal 
+basic income, and utilize the entire spectrum of governance mechanisms from governments, NGOs, and corporations.
 
-10. Michel Foucault, The Body of the Condemned, in Discipline and Punish: The Birth of the Prison 1 (1979).
 
 ### Conclusion
 
@@ -209,7 +185,6 @@ and adaptively on inclusivity, class, the right to self-determination, and the c
 corporate influence, while recognizing the inevitability of change and the limits of existing
 knowledge.
 
-11. Deval Desai & Andrew Lang, Introduction: Global Un-governance, 11 Transnat'l Legal Theory 219 (2020).
 
 Bibliography:
 1. Narula, Rajneesh. Globalization and Technology: Interdependence, Innovation Systems and
