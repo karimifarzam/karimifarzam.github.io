@@ -49,15 +49,9 @@ Feminist scholar Ellen Meiskins Wood to illustrate the logic behind this view. W
 "Capitalism could survive the eradication of all oppressions specific to women as women – while
 it would not, by definition, survive the eradication of class exploitation." She then states, "there
 is no specific structural necessity for, nor even a strong systemic disposition toward, gender
-oppression in capitalism." The counterargument would be that one form of exploitation is being
-supplanted for another.
+oppression in capitalism." 
 
-Chimni illustrates the disconnect in interests that seem to underpin the neoliberalism of the 21st
-century. Essentially, if you do not have to dismantle other systems of oppression, why would
-you? He presents the neo-liberal alternative viewpoint of societal struggle as distinct from Marxists, 
-one that embraces a future where capitalism remains, and the products of a free market
-led to emancipation of societies oppressed. He also presents the major counterargument that such
-a system simply replaces one form of exploitation for another. You can perform a similar
+Chimni illustrates the disconnect in interests that seem to underpin the emergence of neoliberalism in the 20th century. Essentially he states that Capitalism is indifferent to other forms of oppression, and acts as a wholly self serving force. While a marxist might believe that capitalism inherently fuels all forms of oppresion, a neoliberal, while adopting similar social values, would fundamentally disagree.  A neoliberal view would be one that embraces a future where capitalism remains, and the productivity and innovation of the free market lead to a future where economic liberation emancipates society. He also presents the opposing view that such a system simply replaces one form of exploitation for another. You can perform a similar
 analysis where the product of increased capitalism is simply a proxy for the virtuous cycle of
 globalism and technological progress. Effectively, it shows how there is a disconnect between
 interests in class consciousness and other societal institutions like race and gender. For example,
@@ -66,25 +60,10 @@ women’s relationship to parenthood and child rearing. The consequence was a si
 increase in women’s participation in the workforce and with it came an increase in global
 productivity.(4) The 21st century introduction of Oocyte cryopreservation or egg freezing has
 similarly allowed women to plan pregnancy’s later, and technology is continually being
-developed to extend the fertility window. (5) A neoliberal may view these developments in a
-positive light, while a communist may argue that this technology and so-called progress has
-simply shifted their oppression from the realm of gender to realm of capitalism, and without
-freedom from capitalism the underlying oppression remains ever-present.
+developed to extend the fertility window. (5) From a neoliberal perspective, these developments would be seen in positive light, they may point to the benefits of the technology in terms of providing women more freedom in family planning, and while a substantial portion of communists would agree, particularly harsh critics of capitalism would contend that this technology and progress has shifted the oppression of women from the realm of gender to the realm of capitalism. The argument goes that the popularization of such technology is a way extract more employment from women in the workplace, and to incentivize them to delay childbirth in order to focus on their careers and productivity.
 
-The analysis becomes more interesting when investigating the trend in questioning the
-social institutions themselves. In the case of gender as a social construct, its validity as a source
-of identity has come into question particularly as technology has progressed. In the form of
-innovative policy, nations are adapting to the notion of nonbinary personhood. Simultaneously,
-novel medical procedures and biological innovations are also allowing for greater levels of
-physical control of gender expression. (6) While current institutions have yet to adapt, an un-
-governance framework that encourages institutions to “actively seek to encounter, produce, and
-harness, their own indeterminacy (or the experience and expression of it) as a generative
-principle” would be suited for such a landscape. An un-governance model for women’s rights
-institutions, for example, would embrace the evolving nature and meaning of gender while
-accommodating the struggles and virtues of women operating within gender apartheid. It would
-also seek to address the underlying class inequalities that are interspersed within gender issues.
-Such a model would embrace its lack of ability to provide closure on these questions but
-nevertheless strives towards it.
+Analyzing whether capitalism, and by extension prioritizing economic progress, can co-exist with oppression leads you to look at gender. The definition of gender as a category has evolved significantly over the years, and many aspects of what gender means has come into question, particularly as technology has progressed. Innovations in biotechnology have lead to better gender-affirming surgeries and transition pharmaceuticals, and in the form of innovative policy, nations have adopted the notion of nonbinary personhood.(6) While current institutions have yet to adapt, an un-governance framework that encourages institutions to “actively seek to encounter, produce, and harness, their own indeterminacy (or the experience and expression of it) as a generative principle” would be suited for such a landscape. An un-governance model for women’s rights institutions, for example, would embrace the evolving nature and meaning of gender while
+accommodating the struggles and virtues of women operating within systems such as gender apartheid in the Middle East. Altogether, what an un-governance model would achieve is that it would address both the societal and economic concerns. It would for example address the underlying class inequalities that are interspersed within gender issues, while advocating for the ways that economic progress can addresses gender inequality. Such a model would embrace its lack of ability to provide closure on these questions but nevertheless strive towards it.
 
 ### II: Migration and Globalization
 
